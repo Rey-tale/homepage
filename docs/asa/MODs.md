@@ -22,5 +22,4 @@ Inventory Backup Saver  | [MODページ](https://www.curseforge.com/ark-survival
 ASA Api Utils  | [MODページ](https://www.curseforge.com/ark-survival-ascended/mods/asa-api-utils) | サーバー管理等に使うmod
 MX-E Ark Shop UI  | [MODページ](https://www.curseforge.com/ark-survival-ascended/mods/mx-e-ark-shop-ui) | ArkショップのUI追加
 Lethal Quests Ascended UI  | [MODページ](https://www.curseforge.com/ark-survival-ascended/mods/lethal-quests-ascended-ui) | クエストのUI追加
-Winter Wonderland  | [MODページ](https://www.curseforge.com/ark-survival-ascended/mods/winter-wonderland) | イベント関連
 </details>
