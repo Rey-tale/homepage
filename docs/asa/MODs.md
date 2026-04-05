@@ -15,7 +15,7 @@ Pelayori'sCryoStorage(Crossplay!)|[MODページ](https://www.curseforge.com/ark-
 ArkitectStructuresRemastered|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/arkitect-structures-remastered)|建材追加
 GreenhouseGlassFix|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/greenhouse-glass-fix)|建材追加
 KlingerAdditionalRusticBuilding|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/klinger-additional-rustic-building)|建材追加
-ElementAndTributeTransfers[OpenSource]|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/open-source-element-and-tribute-transfers)|転送不可アイテムを転送可能にする<br>エクスティンクション・アストレオスの2マップは未導入
+ElementAndTributeTransfers[OpenSource]|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/open-source-element-and-tribute-transfers)|転送不可アイテムを転送可能にする<br>エクスティンクション・アストレオスの2マップは未導入</br>
 AdminPanel|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/admin-panel)|サーバー管理等に使うMOD
 InventoryBackupSaver|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/inventory-backup-saver)|サーバー管理等に使うMOD
 ASAApiUtils|[MODページ](https://www.curseforge.com/ark-survival-ascended/mods/asa-api-utils)|サーバー管理等に使うMOD

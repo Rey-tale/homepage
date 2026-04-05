@@ -38,7 +38,7 @@ ASAサーバーの入り方は[こちら](/asa/join.md)
 :::
 
 <b>現在バージョンダウンが必須になっています</b>
-<br>Steam＞ASEのプロパティ＞ゲームバージョンとベータ<br>
+<br>Steam＞ASEのプロパティ＞ゲームバージョンとベータ</br>
 ベータへの参加の項目を【preaquatica - ASE:Pre-Aquatica】に変更しなければにら鯖で遊ぶことは出来ません
 
 <details>
