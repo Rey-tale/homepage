@@ -44,16 +44,16 @@ const FeatureList = [
     path: "/img/join/ARKultimate.png",
     description: (
       <>
-      日本では数少ない ASE全てのマップが遊べるサーバとなっています またイベントマップとして縛りマップやMODマップなども定期的に開かれます
+      日本では数少ない ASE全てのマップが24時間365日遊べるサーバとなっています
       </>
     ),
   },
   {
-    title: 'ASAサーバーも完備',
+    title: 'ASAすべてのマップが遊べる',
     path: "/img/hero/ASAheader.png",
     description: (
       <>
-      ARK Survival Evolvedのリメイク版Ark Survival Ascendedのサーバーも24時間開かれています PCはもちろん PS版でもご利用いただけます
+      ARK Survival Evolvedのリメイク版Ark Survival Ascendedのサーバーも24時間開かれています PCはもちろん PS版やXBOXでクロスプレイでもご利用いただけます。
       </>
     ),
   },
