@@ -106,5 +106,10 @@ TEK化恐竜 216レベル(通常の1.2倍)
 | にら鯖(nirasaba)-[Astraeos][Membership] | 不明 | 不明 |
 | にら鯖(nirasaba)-[Ragnarok] | 5:03/17:03 | 5:18/17:18 |
 | にら鯖(nirasaba)-[Valguero] | 不明 | 不明 |
+<<<<<<< HEAD
 
 -->
+=======
+-->
+
+>>>>>>> d2ae67e0cddc0a3c68d82812e74e90b02fc1f4b1

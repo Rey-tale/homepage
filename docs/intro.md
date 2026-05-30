@@ -7,7 +7,11 @@ sidebar_position: 1
 ようこそ！！！
 
 このサーバーはPC　steam版ARK: Survival Evolved と ARK: Survival Ascendedの非公式サーバーです  
+<<<<<<< HEAD
 現在5600人程の大規模サーバーです 
+=======
+現在5600人ほどの大規模サーバーです 
+>>>>>>> d2ae67e0cddc0a3c68d82812e74e90b02fc1f4b1
 psやモバイルそのほかのプラットフォームの方もDiscordに参加して会話などコミュニケーションをしていただくことは可能です  
 
 [ASEの設定](/docs/ase/setting)は比較的緩めとなっており、PVEで平和なサーバーとなっています。
